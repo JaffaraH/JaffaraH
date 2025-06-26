@@ -1,8 +1,10 @@
 # 👋 Hi there I'm Huda
 
-👩🏽‍💻 Junior Computer Science major at Prairie View A&M University  
-🌱 Learning TensorFlow and Three.js to build immersive, interactive tech projects  
-✨ Passionate about creating fun, creative ways to learn using web development, machine learning, and virtual reality  
+👩🏽‍💻 Rising Senior Computer Science major at Prairie View A&M University, focused on software engineering and machine learning.
+✨ Passionate about building efficient software and intelligent systems that solve real-world problems.
+🚀 Actively developing projects, aiming for high-quality code and impactful innovation.
+
+
 
 ---
 
