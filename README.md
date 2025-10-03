@@ -1,17 +1,15 @@
-# Hi 👋 I'm Huda!
+# Hi 👋 I’m Huda!  
 
-🎓 **Computer Science Senior** at Prairie View A&M University 
-specializing in **Software Engineering** and **Machine Learning**
+🎓 **CS Senior** at Prairie View A&M University  
 
-💡 I'm passionate about turning complex challenges into elegant solutions, 
-building scalable software and intelligent systems that genuinely improve people's lives.
+💻 I enjoy building **web apps**, learning **new frameworks**, and creating software that’s both scalable and easy to use.
 
-🔧 **What I'm working on:**
-- Developing full-stack applications with modern frameworks
-- Exploring AI/ML algorithms and their practical applications
-- Building my portfolio with projects that showcase both technical depth and user-centered design
+⚡ **Right now I’m:**  
+- Building full-stack apps that feel smooth and practical  
+- Exploring how AI/ML can fit into real-world projects  
+- Growing my portfolio with projects that balance clean code and good design  
 
-🌟 **Always eager to learn**, collaborate, and turn innovative ideas into reality through clean, efficient code.
+🌟 Always curious, always learning — I like turning ideas into working software and picking up new skills along the way.  
 
 ---
 
