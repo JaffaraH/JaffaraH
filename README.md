@@ -4,11 +4,6 @@
 
 💻 I enjoy building **web apps**, learning **new frameworks**, and creating software that’s both scalable and easy to use.
 
-⚡ **Right now I’m:**  
-- Building full-stack apps that feel smooth and practical  
-- Exploring how AI/ML can fit into real-world projects  
-- Growing my portfolio with projects that balance clean code and good design  
-
 🌟 Always curious, always learning — I like turning ideas into working software and picking up new skills along the way.  
 
 ---
