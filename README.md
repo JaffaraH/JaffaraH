@@ -1,11 +1,19 @@
-# Hi 👋 I’m Huda!  
+# Hi 👋 I'm Huda  
 
-🎓 **CS Senior** at Prairie View A&M University  
+🎓 Computer Science Senior at Prairie View A&M University  
 
-💻 I enjoy building **web apps**, learning **new frameworks**, and creating software that’s both scalable and easy to use.
+💡 Passionate about building impactful software across:
+- Full-stack web development  
+- AI & medical imaging  
+- Computer vision and deep learning  
 
-🌟 Always curious, always learning — I like turning ideas into working software and picking up new skills along the way.  
+🚀 Currently working on:
+- [FLARE](https://github.com/dware11/FLARE) — AI-powered system for brain CT and MRI tumor classification and segmentation that automates multi-modal scan analysis through a fusion workflow combining CT and MRI data into a unified weighted prediction score. The system performs 5-class classification: Normal, Abnormal, Glioma, Meningioma, and Pituitary tumors.
 
+📚 Always learning, building, and experimenting with new technologies.
+
+## 🔗 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/jaffarah/
 ---
 
 ## 💻 Tech Stack  
@@ -14,6 +22,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300C7B7.svg?style=for-the-badge&logo=sqlite&logoColor=white)
