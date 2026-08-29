@@ -12,9 +12,6 @@ Passionate about applying data science to medical imaging and multi-modal AI wit
 - [FLARE](https://github.com/dware11/FLARE) — AI-powered system for brain CT and MRI tumor classification and segmentation that automates multi-modal scan analysis through a fusion workflow combining CT and MRI data into a unified weighted prediction score. The system performs 5-class classification: Normal, Abnormal, Glioma, Meningioma, and Pituitary tumors.
 - [LifeSync](https://github.com/JaffaraH/lifesync-portfolio) — AI-powered life management platform that unifies task, goal, and habit tracking into a single daily view, using Gemini-based multimodal parsing to convert free text, links, or screenshots into structured, reviewable tasks matched against a user's existing goals.
 
-
-## 🔗 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/jaffarah/
 ---
 
 ## 💻 Tech Stack  
