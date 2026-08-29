@@ -1,17 +1,17 @@
-# Hi 👋 I'm Huda  
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
+  Hi, I'm Huda
+</h1>
 
-🎓 Computer Science Senior at Prairie View A&M University  
+🎓 Master's Student in Data Science at Rice University
 
-💡 Passionate about building impactful software across:
-- Full-stack web development  
-- AI & medical imaging  
-- Computer vision and deep learning  
+Passionate about applying data science to medical imaging and multi-modal AI with a focus on building systems that follow the clinical journey from diagnosis to treatment. I'm driven by the challenge of making AI reliable, interpretable, and usable in real clinical settings.
+
 
 🚀 Currently working on:
 - [FLARE](https://github.com/dware11/FLARE) — AI-powered system for brain CT and MRI tumor classification and segmentation that automates multi-modal scan analysis through a fusion workflow combining CT and MRI data into a unified weighted prediction score. The system performs 5-class classification: Normal, Abnormal, Glioma, Meningioma, and Pituitary tumors.
 - [LifeSync](https://github.com/JaffaraH/lifesync-portfolio) — AI-powered life management platform that unifies task, goal, and habit tracking into a single daily view, using Gemini-based multimodal parsing to convert free text, links, or screenshots into structured, reviewable tasks matched against a user's existing goals.
 
-📚 Always learning, building, and experimenting with new technologies.
 
 ## 🔗 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/jaffarah/
